@@ -13,4 +13,20 @@ After all 3 of these prerequisites are completed, we can begin!
 
 To run the app follow the below steps
 
-1. Git clone   
+1. Clone the GIT repository
+	git clone https://github.com/KishoreNandhu/Flask-restap-blog.git
+2. Change the working directory
+	cd Flask-restap-blog
+3. Install the Flask module
+	pip install -r requirements.txt
+4. Run the application
+	python app.py
+5. Use the Postman to test the restAPI endpoints 
+
+Below are the functions supported in the app
+ 
+1. Get all employees details                  -> http://127.0.0.1:5000/employees             - GET method
+2. Get specific employee details              -> http://127.0.0.1:5000/employees/1           - GET method
+3. Create new employee details                -> http://127.0.0.1:5000/employees             - POST method
+4. Update the existing employee details       -> http://127.0.0.1:5000/employees/4           - PUT method
+5. Delete the employee details                -> http://127.0.0.1:5000/employees/1           - DELETE method 
