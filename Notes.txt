@@ -1,0 +1,16 @@
+###  How to Build an API With Python Flask
+
+Python Flask is a popular framework for building web applications and APIs in Python. It provides developers with a quick and easy way to create RESTful APIs that can be used by other software applications. Flask is lightweight and requires minimal setup, making it a great choice for building small to medium-sized APIs. This makes Flask an ideal choice for developers looking to build robust and scalable APIs in Python. This example will review how to create a simple rest API Flask tutorial.
+PrerequisitesPermalink
+
+Before we start, we must ensure that a couple of prerequisites are completed. To follow along and run this tutorial, you will need to:
+
+    Install Python
+    Have an IDE to edit your code
+    Install Postman so that you can test the endpoint
+
+After all 3 of these prerequisites are completed, we can begin!
+
+To run the app follow the below steps
+
+1. Git clone   
